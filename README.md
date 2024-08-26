@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-Hej hej, jag pluggar kod
+Currently studying Full stack
