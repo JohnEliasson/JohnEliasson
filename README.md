@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm John Eliasson</h1>
 <h3 align="center">A passionate frontend developer from Stockholm, Sweden</h3>
 
-- 🌱 I’m currently learning **Fullstack development at </SALT>**
+- 🌱 I’m currently learning **Fullstack development at "</SALT>"**
 
 
 
